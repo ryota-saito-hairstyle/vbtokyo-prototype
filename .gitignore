@@ -1,0 +1,10 @@
+# 環境変数ファイル（実値をコミットしない。テンプレートの .env.example のみ可）
+.env
+.env*.local
+.env.test
+
+# OS
+.DS_Store
+
+# 依存
+node_modules/
